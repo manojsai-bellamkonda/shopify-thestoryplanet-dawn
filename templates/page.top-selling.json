@@ -1,0 +1,312 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_9VU4aq": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_AWDPtw": {
+          "type": "heading",
+          "settings": {
+            "heading": "Top Selling Books",
+            "heading_size": "h1"
+          }
+        },
+        "text_q8FqEx": {
+          "type": "text",
+          "settings": {
+            "text": "View our top selling books of the Year!",
+            "text_style": "body"
+          }
+        },
+        "buttons_A8n4x6": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Buy",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_AWDPtw",
+        "text_q8FqEx",
+        "buttons_A8n4x6"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/young-boy-smiles-at-father-holding-baby-sister.jpg",
+        "image_2": "shopify:\/\/shop_images\/silver-lamp-on-a-white-table-next-to-books.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-29b9bda5-81f7-4043-abac-39cfe377743b",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text_yeJppq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_D7HaFA": {
+          "type": "heading",
+          "settings": {
+            "heading": "Although...",
+            "heading_size": "h1"
+          }
+        },
+        "text_Ujach9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We have a fantastic and vast collection of books, some of them will catch the interest and become more popular.  Check out our list of most selling books in this year!<\/p>"
+          }
+        },
+        "caption_X9HN3x": {
+          "type": "caption",
+          "settings": {
+            "caption": "P.S. You won't Regret!",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "heading_D7HaFA",
+        "text_Ujach9",
+        "caption_X9HN3x"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_jtbdne": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_H6MkYa": {
+          "type": "heading",
+          "settings": {
+            "heading": "Harry Potter and the Philosopher's Stone",
+            "heading_size": "h1"
+          }
+        },
+        "text_HfAYcJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Its the First book in the collection of Harry Potter and believe me it has the potential to pull you in for the entire collection.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_3yFQiW": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy Now",
+            "button_link": "shopify:\/\/products\/harry-potter-and-the-philosophers-stone",
+            "button_style_secondary": false
+          }
+        },
+        "caption_pXP76N": {
+          "type": "caption",
+          "settings": {
+            "caption": "ALL TIME FAVOURITE",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "heading_H6MkYa",
+        "text_HfAYcJ",
+        "button_3yFQiW",
+        "caption_pXP76N"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/HP-the-p-stone.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-29b9bda5-81f7-4043-abac-39cfe377743b",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_7tJVfq": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Aw8XPR": {
+          "type": "heading",
+          "settings": {
+            "heading": "Harry Potter and the Chamber of Secrets",
+            "heading_size": "h1"
+          }
+        },
+        "text_3LWxtz": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This is the Sequel of Harry Potter and the Philosopher stone where Harry and his friends go for 2nd year of Hogwarts. Read to find out the adventures they face through out the year.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_Y6mPNP": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy Now",
+            "button_link": "shopify:\/\/products\/harry-potter-and-the-chamber-of-secrets",
+            "button_style_secondary": false
+          }
+        },
+        "caption_K8c9B4": {
+          "type": "caption",
+          "settings": {
+            "caption": "PERFECT SWQUEL",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Aw8XPR",
+        "text_3LWxtz",
+        "button_Y6mPNP",
+        "caption_K8c9B4"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/HP-chamber-of-secrets.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-29b9bda5-81f7-4043-abac-39cfe377743b",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_HU68fa": {
+      "type": "multirow",
+      "blocks": {
+        "row_fqQbFX": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HP-the-p-stone.jpg",
+            "caption": "The Storey Planet",
+            "heading": "Harry Potter and the Philosopher's Stone",
+            "text": "",
+            "button_label": "Buy",
+            "button_link": "shopify:\/\/products\/harry-potter-and-the-philosophers-stone"
+          }
+        },
+        "row_6waqBb": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HP-chamber-of-secrets.jpg",
+            "caption": "The Storey Planet",
+            "heading": "Harry Potter and the Chamber of Secrets",
+            "text": "",
+            "button_label": "Buy",
+            "button_link": "shopify:\/\/products\/harry-potter-and-the-chamber-of-secrets"
+          }
+        }
+      },
+      "block_order": [
+        "row_fqQbFX",
+        "row_6waqBb"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "small",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "primary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "align-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "scheme-29b9bda5-81f7-4043-abac-39cfe377743b",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_fezWDk": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_eY7tjA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/graphic-designer-at-work.jpg",
+            "title": "Agatha Cristine Interview",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/blogs\/genre-spotlights\/agatha-christies-interview"
+          }
+        },
+        "column_PLArak": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/silver-lamp-on-a-white-table-next-to-books.jpg",
+            "title": "Harry Potter Reading Order",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/blogs\/reading-guides\/harry-potter-books-in-order"
+          }
+        }
+      },
+      "block_order": [
+        "column_eY7tjA",
+        "column_PLArak"
+      ],
+      "settings": {
+        "title": "Related Articles",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_9VU4aq",
+    "rich_text_yeJppq",
+    "image_with_text_jtbdne",
+    "image_with_text_7tJVfq",
+    "multirow_HU68fa",
+    "multicolumn_fezWDk"
+  ]
+}
