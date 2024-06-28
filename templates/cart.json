@@ -56,18 +56,20 @@
         "padding_bottom": 36
       }
     },
+    "delivery-date-picker": {
+      "type": "delivery-date-picker",
+      "settings": {}
+    },
     "cart-footer": {
       "type": "main-cart-footer",
       "blocks": {
         "subtotal": {
           "type": "subtotal",
-          "settings": {
-          }
+          "settings": {}
         },
         "buttons": {
           "type": "buttons",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -84,7 +86,7 @@
       "type": "apps",
       "blocks": {
         "metafields_guru_date_rxjtQg": {
-          "type": "shopify:\/\/apps\/metafields-guru\/blocks\/date\/79c9df68-85d5-4857-a386-0d96fc22b663",
+          "type": "shopify://apps/metafields-guru/blocks/date/79c9df68-85d5-4857-a386-0d96fc22b663",
           "settings": {
             "title": "Date",
             "mn": "metafields_guru",
@@ -121,6 +123,7 @@
   "order": [
     "image_banner_NwGeaF",
     "cart-items",
+    "delivery-date-picker",
     "cart-footer",
     "1718857596b9eacbca"
   ]
