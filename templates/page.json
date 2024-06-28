@@ -20,7 +20,7 @@
         "text_TGXXF3": {
           "type": "text",
           "settings": {
-            "text": "<p>Fantasy literature opens doors to magical realms filled with extraordinary creatures, epic battles, and legendary heroes. This genre allows readers to escape reality and embark on adventures beyond their wildest dreams. From classic tales to modern epics, there's something for every fantasy lover.<br\/><\/p>",
+            "text": "<p>Fantasy literature opens doors to magical realms filled with extraordinary creatures, epic battles, and legendary heroes. This genre allows readers to escape reality and embark on adventures beyond their wildest dreams. From classic tales to modern epics, there's something for every fantasy lover.<br/></p>",
             "text_style": "body"
           }
         },
@@ -40,7 +40,7 @@
         "caption_tMBY6L"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/young-boy-smiles-at-father-holding-baby-sister.jpg",
+        "image": "shopify://shop_images/young-boy-smiles-at-father-holding-baby-sister.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -89,21 +89,21 @@
         "column_naNQ68": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/hp-hero.jpg",
+            "image": "shopify://shop_images/hp-hero.jpg",
             "title": "Plot of Harry Potter",
-            "text": "<p>Here is a brief summary of the Harry Potter book series.<\/p>",
+            "text": "<p>Here is a brief summary of the Harry Potter book series.</p>",
             "link_label": "",
-            "link": "shopify:\/\/blogs\/book-reviews\/plot-of-harry-potter"
+            "link": "shopify://blogs/book-reviews/plot-of-harry-potter"
           }
         },
         "column_DKYnQj": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/graphic-designer-at-work.jpg",
+            "image": "shopify://shop_images/graphic-designer-at-work.jpg",
             "title": "Agatha christie's Interview",
-            "text": "<p>See what Agatha Christie say about the Harry Potter.<\/p>",
+            "text": "<p>See what Agatha Christie say about the Harry Potter.</p>",
             "link_label": "",
-            "link": "shopify:\/\/blogs\/genre-spotlights\/agatha-christies-interview"
+            "link": "shopify://blogs/genre-spotlights/agatha-christies-interview"
           }
         }
       },
@@ -127,12 +127,59 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "multirow_quick_links": {
+      "type": "multirow",
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "primary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "scheme-29b9bda5-81f7-4043-abac-39cfe377743b",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      },
+      "blocks": {
+        "quick_link_1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/silver-lamp-on-a-white-table-next-to-books.jpg",
+            "caption": "The Storey Planet",
+            "heading": "Reading Guides",
+            "text": "<p>Want to know the best way to enjoy a Bool collection? click view to know more.</p>",
+            "button_label": "View",
+            "button_link": "shopify://blogs/reading-guides"
+          }
+        },
+        "quick_link_2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/woman-holding-coffee-mug.jpg",
+            "caption": "The Storey Planet",
+            "heading": "Genre Spotlights",
+            "text": "<p>View to know more about various Genres.</p>",
+            "button_label": "View",
+            "button_link": "shopify://blogs/genre-spotlights"
+          }
+        }
+      },
+      "block_order": [
+        "quick_link_1",
+        "quick_link_2"
+      ]
     }
   },
   "order": [
     "main",
     "image_with_text_dbajwG",
     "featured_collection_X79QFG",
-    "multicolumn_JNkfAe"
+    "multicolumn_JNkfAe",
+    "multirow_quick_links"
   ]
 }
