@@ -1,0 +1,170 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin language editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "cart": {
+      "headings": {
+        "price": "कीमत"
+      }
+    }
+  },
+  "general": {
+    "search": {
+      "search": "खोज"
+    },
+    "share": {
+      "success_message": "लिंक क्लिपबोर्ड पर कॉपी किया गया"
+    },
+    "slider": {
+      "of": "का",
+      "next_slide": "दांयीं ओर स्लाइड करें",
+      "previous_slide": "बाईं ओर स्लाइड करें",
+      "name": "स्लाइडर"
+    }
+  },
+  "localization": {
+    "search": "खोज"
+  },
+  "customer": {
+    "order": {
+      "price": "कीमत"
+    },
+    "orders": {
+      "date": "तारीख"
+    }
+  },
+  "newsletter": {
+    "label": "ईमेल",
+    "success": "सब्सक्राइब करने के लिए धन्यवाद",
+    "button_label": "सदस्यता लें"
+  },
+  "accessibility": {
+    "skip_to_text": "इसे छोड़कर सामग्री पर बढ़ने के लिए",
+    "skip_to_product_info": "उत्पाद जानकारी पर जाएं",
+    "close": "बंद करना",
+    "unit_price_separator": "प्रति",
+    "vendor": "विक्रेता:",
+    "error": "गलती",
+    "refresh_page": "चयन चुनने पर पूरा पृष्ठ रीफ़्रेश हो जाता है.",
+    "link_messages": {
+      "new_window": "एक नई विंडो में खुलता है।",
+      "external": "बाहरी वेबसाइट खोलता है."
+    },
+    "loading": "लोड हो रहा है...",
+    "total_reviews": "कुल समीक्षाएँ",
+    "star_reviews_info": "{ {{ rating_max }} {{ rating_value }} } स्टार",
+    "collapsible_content_title": "संक्षिप्त करने योग्य सामग्री",
+    "complementary_products": "पूरक उत्पाद"
+  },
+  "blogs": {
+    "article": {
+      "blog": "ब्लॉग",
+      "read_more_title": "और अधिक पढ़ें: {{ title }}",
+      "comments": {
+        "one": "{{ count }} टिप्पणी",
+        "other": "{{ count }} टिप्पणियाँ"
+      },
+      "moderated": "कृपया ध्यान दें, टिप्पणियों को प्रकाशित करने से पहले उनका अनुमोदन आवश्यक है।",
+      "comment_form_title": "एक टिप्पणी छोड़ें",
+      "name": "नाम",
+      "email": "ईमेल",
+      "message": "टिप्पणी",
+      "post": "तेज़ी से टिप्पणी करना",
+      "back_to_blog": "ब्लॉग पर वापस जाएं",
+      "share": "इस लेख का हिस्सा",
+      "success": "आपकी टिप्पणी सफलतापूर्वक पोस्ट की गई! धन्यवाद!",
+      "success_moderated": "आपकी टिप्पणी सफलतापूर्वक पोस्ट कर दी गई है। हम इसे थोड़ी देर में प्रकाशित करेंगे, क्योंकि हमारा ब्लॉग मॉडरेट है।"
+    }
+  },
+  "onboarding": {
+    "product_title": "उदाहरण उत्पाद शीर्षक",
+    "collection_title": "आपके संग्रह का नाम"
+  },
+  "products": {
+    "product": {
+      "add_to_cart": "कार्ट में जोड़ें",
+      "choose_options": "विकल्प चुनें",
+      "choose_product_options": "{{ product_name }} के लिए विकल्प चुनें",
+      "description": "विवरण",
+      "inventory_in_stock": "स्टॉक में",
+      "inventory_in_stock_show_count": "{{ quantity }}",
+      "inventory_low_stock": "कम स्टॉक",
+      "inventory_low_stock_show_count": "कम स्टॉक: {{ quantity }} शेष",
+      "inventory_out_of_stock": "स्टॉक ख़त्म",
+      "inventory_out_of_stock_continue_selling": "स्टॉक में",
+      "sku": "एसकेयू",
+      "on_sale": "बिक्री",
+      "product_variants": "उत्पाद प्रकार",
+      "media": {
+        "gallery_viewer": "गैलरी दर्शक",
+        "load_image": "गैलरी दृश्य में छवि {{ index }} लोड करें",
+        "load_model": "गैलरी दृश्य में 3D मॉडल {{ index }} लोड करें",
+        "load_video": "गैलरी दृश्य में वीडियो {{ index }} चलाएं",
+        "image_available": "छवि {{ index }} अब गैलरी दृश्य में उपलब्ध है",
+        "open_media": "मीडिया {{ index }} मोडल में खोलें",
+        "play_model": "3D व्यूअर चलाएँ",
+        "play_video": "वीडियो चलाएं"
+      },
+      "quantity": {
+        "label": "मात्रा",
+        "input_label": "{{ product }} के लिए मात्रा",
+        "increase": "{{ product }} की मात्रा बढ़ाएँ",
+        "decrease": "{{ product }} की मात्रा घटाएँ",
+        "minimum_of": "न्यूनतम {{ quantity }}",
+        "maximum_of": "अधिकतम {{ quantity }}",
+        "multiples_of": "{{ quantity }} की वृद्धि",
+        "min_of": "न्यूनतम {{ quantity }}",
+        "max_of": "अधिकतम {{ quantity }}",
+        "in_cart_html": "<span class=\"quantity-cart\">{{ quantity }}<\/span> कार्ट में",
+        "note": "मात्रा नियम देखें"
+      },
+      "volume_pricing": {
+        "title": "मात्रा मूल्य निर्धारण",
+        "note": "वॉल्यूम मूल्य निर्धारण उपलब्ध",
+        "minimum": "{{ quantity }} +",
+        "price_at_each": "{{ price }} \/ईए पर"
+      },
+      "pickup_availability": {
+        "view_store_info": "स्टोर की जानकारी देखें",
+        "check_other_stores": "अन्य दुकानों पर उपलब्धता की जांच करें",
+        "pick_up_available": "पिकअप उपलब्ध है",
+        "pick_up_available_at_html": "<span class=\"color-foreground\">{{ location_name }}<\/span> पर पिकअप उपलब्ध है",
+        "pick_up_unavailable_at_html": "<span class=\"color-foreground\">{{ location_name }}<\/span> पर पिकअप वर्तमान में उपलब्ध नहीं है",
+        "unavailable": "पिकअप उपलब्धता लोड नहीं की जा सकी",
+        "refresh": "ताज़ा करना"
+      },
+      "price": {
+        "from_price_html": "{{ price }} से",
+        "regular_price": "नियमित रूप से मूल्य",
+        "sale_price": "विक्रय कीमत",
+        "unit_price": "यूनिट मूल्य"
+      },
+      "share": "इस उत्पाद को साझा करें",
+      "sold_out": "बिक गया",
+      "unavailable": "अनुपलब्ध",
+      "vendor": "विक्रेता",
+      "value_unavailable": "{{ option_value }} - अनुपलब्ध",
+      "variant_sold_out_or_unavailable": "वैरिएंट बिक चुका है या उपलब्ध नहीं है",
+      "video_exit_message": "{{ title }} एक ही विंडो में पूर्ण स्क्रीन वीडियो खोलता है।",
+      "view_full_details": "पूरा विवरण देखें",
+      "xr_button": "अपने स्थान में देखें",
+      "xr_button_label": "अपने स्थान में देखें, संवर्धित वास्तविकता विंडो में आइटम लोड करें",
+      "include_taxes": "टैक्स शामिल।",
+      "shipping_policy_html": "<a href=\"&lt;span%20class='notranslate'&gt;{{%20link%20}}&lt;\/span&gt;\">शिपिंग की<\/a> गणना चेकआउट पर की जाएगी।"
+    },
+    "modal": {
+      "label": "मीडिया गैलरी"
+    },
+    "facets": {
+      "filter_and_operator_subtitle": "सभी का मिलान करें",
+      "apply": "आवेदन करना"
+    }
+  }
+}
