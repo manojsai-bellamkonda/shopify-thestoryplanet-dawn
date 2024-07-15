@@ -94,34 +94,6 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured products",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "scheme-1",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 44,
-        "padding_bottom": 36
-      }
-    },
     "collection_list_4tqAEP": {
       "type": "collection-list",
       "blocks": {
@@ -150,7 +122,7 @@
         "featured_collection_TQEj8D"
       ],
       "settings": {
-        "title": "Collections",
+        "title": "",
         "heading_size": "h2",
         "image_ratio": "adapt",
         "columns_desktop": 3,
@@ -161,12 +133,137 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_PxJYjP": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_aRXyex": {
+          "type": "heading",
+          "settings": {
+            "heading": "Discover Quality Ingredients Backed by Science",
+            "heading_size": "h1"
+          }
+        },
+        "text_M4i8Tk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Throughout our 80-year history, Schiff has been passionate about exploring remedies from around the world and discovering<strong>new, quality ingredients backed by science<\/strong>.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_aRXyex",
+        "text_M4i8Tk"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/flatlay-of-jade-face-roller-laying-on-a-grey-stone.jpg",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "zoom-in",
+        "mobile_content_alignment": "left",
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "multicolumn_MygP4e": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_YfwD4r": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hp-hero.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Top Selling books of the year",
+            "link": "shopify:\/\/blogs\/book-reviews"
+          }
+        },
+        "column_4iK8qL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hp-hero.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Top Selling books of the year",
+            "link": "shopify:\/\/blogs\/book-reviews"
+          }
+        },
+        "column_4npRnm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hp-hero.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Top Selling books of the year",
+            "link": "shopify:\/\/blogs\/book-reviews"
+          }
+        }
+      },
+      "block_order": [
+        "column_YfwD4r",
+        "column_4iK8qL",
+        "column_4npRnm"
+      ],
+      "settings": {
+        "title": "Recent Blogs",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Featured products",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "image_banner",
     "multicolumn_KzBDQG",
-    "featured_collection",
-    "collection_list_4tqAEP"
+    "collection_list_4tqAEP",
+    "image_with_text_PxJYjP",
+    "multicolumn_MygP4e",
+    "featured_collection"
   ]
 }
