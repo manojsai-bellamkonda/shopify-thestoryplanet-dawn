@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "image_banner": {
@@ -177,6 +186,53 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_A7BLab": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_nrCwtz": {
+          "type": "heading",
+          "settings": {
+            "heading": "“I really love them.”",
+            "heading_size": "h1"
+          }
+        },
+        "text_eiRaG4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>“Heavy makeup just wasn't working for me anymore. Too heavy, too much of a made-up look. I was looking for products that I felt good wearing, and that's what I found with the Boom products. I really love them.”<\/p>",
+            "text_style": "body"
+          }
+        },
+        "caption_gNMNct": {
+          "type": "caption",
+          "settings": {
+            "caption": "Sandy BergBoom Ambassador",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "heading_nrCwtz",
+        "text_eiRaG4",
+        "caption_gNMNct"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/dark-braids-in-hair-and-red-lips-fashion.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -185,6 +241,7 @@
     "page_ydRTfD",
     "collection_list_4tqAEP",
     "page_MEeHKR",
-    "multicolumn_KzBDQG"
+    "multicolumn_KzBDQG",
+    "image_with_text_A7BLab"
   ]
 }
