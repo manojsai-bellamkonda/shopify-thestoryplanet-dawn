@@ -1,0 +1,65 @@
+<div class="video-on-{{ section.settings.video_side }} container">
+  <div class="text">
+    <p>{{ section.settings.video_text }}</p>
+  </div>
+  <div class="video">
+    <iframe src="{{ section.settings.video_url }}" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
+
+{% style %}
+  .container {
+    padding: 20px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+  }
+  .video {
+    margin: 0 10px;
+  }
+  .video-on-left {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .video-on-right {
+    display: flex;
+    flex-direction: row-reverse;
+  }
+{% endstyle %}
+
+{% schema %}
+{
+  "name": "Video with Text",
+  "class": "section",
+  "disabled_on": {
+    "groups": ["header", "footer"]
+  },
+  "settings": [
+    {
+      "type": "select",
+      "id": "video_side",
+      "options": [
+        {
+          "value": "left",
+          "label": "Left"
+        },
+        {
+          "value": "right",
+          "label": "Right"
+        }
+      ],
+      "label": "Where do you want the video on?"
+    },
+    {
+      "type": "text",
+      "id": "video_url",
+      "label": "Enter the Video URL:"
+    },
+    {
+      "type": "text",
+      "id": "video_text",
+      "label": "Enter the text to be shown beside video:"
+    }
+  ]
+}
+{% endschema %}
