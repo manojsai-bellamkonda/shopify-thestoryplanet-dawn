@@ -289,6 +289,125 @@
         "video_url": "https:\/\/www.youtube.com\/embed\/O62v7YB8JMw?si=g8aVDmEFHPW-_7YL",
         "video_text": "What is Lorem Ipsum?Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
       }
+    },
+    "rich_text_VeY9KR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hqLUFz": {
+          "type": "heading",
+          "settings": {
+            "heading": "What is Lorem Ipsum?",
+            "heading_size": "h1"
+          }
+        },
+        "text_4dmdEH": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Lorem Ipsum<\/strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hqLUFz",
+        "text_4dmdEH"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "collapsible_content_7Nzn3m": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_6VEF8P": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is Boomstick Color?",
+            "icon": "question_mark",
+            "row_content": "<p>Boomstick Color is a creamy blush, lipstick, bronzer and contour that adds instant color to your face, neck and décolletage<\/p><p>We call Boomstick Color “the color of happiness” because it’s designed to mimic your own happy, excited blush.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_qPELCY": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What’s in Boomstick Color?",
+            "icon": "question_mark",
+            "row_content": "<p>Like all Boom products, this Boomstick is formulated without parabens and phthalates.<\/p><p>INGREDIENTS: Ricinus Communis (Castor) Seed Oil, Isopropyl Myristate, Canola Oil, Octyldodecyl Stearoyl Stearate, Octyldodecanol, Polyglyceryl-2 Diisostearate, Euphorbia Cerifera (Candelilla) Wax, Polyethylene, Acrylates\/Stearyl Acrylate\/Dimethicone Methacrylate Copolymer, Copernicia Cerifera (Carnauba) Wax, Dipentaerythrityl Hexacaprylate\/Hexacaprate, Butylene Glycol, Cetyl Alcohol, Ozokerite, Silica, Tridecyl Trimellitate, Zea Mays (Corn) Starch, Butyrospermum Parkii (Shea) Butter, Mica, Microcrystalline Wax, PEG\/PPG-18\/18 Dimethicone, Tridecyl Stearate, Tocopheryl Acetate, Neopentyl Glycol Dicaprylate\/Dicaprate, Rosmarinus Officinalis Leaf Extract, CI 77491, CI 77891, CI 17200, CI 16035, CI 73360, CI 42090<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_aP9YFn": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is Boomstick Color suitable for all skin types?",
+            "icon": "question_mark",
+            "row_content": "<p>Yes! Boomstick Color is suitable for all skin types, from oily to dry.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_6VEF8P",
+        "collapsible_row_qPELCY",
+        "collapsible_row_aP9YFn"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Frequently Asked Questions",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "quick_order_list_cmawxq": {
+      "type": "quick-order-list",
+      "settings": {
+        "show_image": false,
+        "show_sku": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_KWU6Q8": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Love this? Then you may also enjoy:",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "mystery-thriller-collection",
+        "products_to_show": 4,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -298,6 +417,10 @@
     "featured_collection_J79jkj",
     "multirow_h7nFQz",
     "video-with-text-left",
-    "video-with-text-right"
+    "video-with-text-right",
+    "rich_text_VeY9KR",
+    "collapsible_content_7Nzn3m",
+    "quick_order_list_cmawxq",
+    "featured_collection_KWU6Q8"
   ]
 }
